@@ -1,6 +1,6 @@
 ## Blair Replogle
 
-- [Resume](../RESUME.md)
+- [Resume](UpBra/blob/main/RESUME.md)
 
 | ⚠️ | Question | Answer |
 |:-----:|:--------------------------------------------------|--------------------------------------------------:|
