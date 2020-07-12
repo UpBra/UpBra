@@ -1,4 +1,7 @@
-### Hi there 👋
+## Blair Replogle
+
+### Profile
+I’ve been working in mobile software development for almost a decade. I have a lot of experience working in large, complicated code bases. I prefer tabs. I think code style should aid in readability but not hinder development. I can maintain a codebase or build one from the ground up using best practices. I pride myself in the ability to translate technical problems to non-technical people.
 
 <!--
 **UpBra/UpBra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
