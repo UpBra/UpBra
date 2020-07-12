@@ -3,17 +3,15 @@
 ### Profile
 I’ve been working in mobile software development for almost a decade. I have a lot of experience working in large, complicated code bases. I prefer tabs. I think code style should aid in readability but not hinder development. I can maintain a codebase or build one from the ground up using best practices. I pride myself in the ability to translate technical problems to non-technical people.
 
-<!--
-**UpBra/UpBra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Resume](RESUME.md)
 
-Here are some ideas to get you started:
+I’ve been working in mobile software development for almost a decade. I have a lot of experience working in large, complicated code bases. I prefer tabs. I think
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|:-----:|:--------------------------------------------------|--------------------------------------------------:|
+| 🔭 | I’m currently working on ... | SPORTSBALL APP |
+| 🌱 | I'm currently learning ... | Combine |
+| 👯 | I’m looking to collaborate on ... | Next big million dollar idea |
+| 🤔 | I’m looking for help with ... | Organizing my house |
+| 💬 | Ask me about ... | 🙊 |
+| 📫 | How to reach me ... | Carrier Pigeons |
+| ⚡ | Fun fact ... | I have three kneecaps |
