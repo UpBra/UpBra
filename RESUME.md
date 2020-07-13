@@ -11,25 +11,21 @@ Double Minor: Mathematics and History
 
 ### Experience
 
-#### Senior iOS Engineer   •   [ 2012 – Present ]
-#### Wunderman Thompson Mobile — Denver, CO
+#### __Senior iOS Engineer__ • Wunderman Thompson Mobile • Denver, CO • [ 2012 – Present ]
 - Expert knowledge of Swift and Objective-C
 - Collaborate with UX, design and developers to build amazing experiences
 - Experience working with RESTful API type web services
 - Lead development on large scale projects such as the March Madness App
 
-#### iOS Software Developer   •   [ 2011 ]
-- Self Employed — Aspen, CO
+#### __iOS Software Developer__ • Self Employed • Aspen, CO • [ 2011 ]
 - Implemented custom iPhone apps based on client specifications
 - Collaborated with designers to implement custom UI elements
 
-#### Mac Genius   •   [ 2006 – 2009 ]
-- Apple Inc. — Denver, CO
+#### __Mac Genius__ • Apple Inc. • Denver, CO • [ 2006 – 2009 ]
 - Became certified in Apple Hardware and Software
 - Managed resources of a dozen repair technicians
 
-#### Technical Consultant   •   [ 2003 – 2006 ]
-- University of Denver — Denver, CO
+#### Technical Consultant • University of Denver • Denver, CO • [ 2003 – 2006 ]
 - Provided technical support to faculty, staff, and students
 - Maintained code for University software to configure new student machines
 
